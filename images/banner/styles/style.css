@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    /* max-width: 0 auto; */
+    
+}
+.header img{
+    width: 80%;
+    padding: 50px;
+    margin-top: 20px;
+    height: 500px;
+    
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+    text-align:left;
+}
+.btn-color{
+    background-color: #F15B22;
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size:20px; 
+    border:0;
+    padding:18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    margin-left: 350px;
+}
